@@ -12,7 +12,7 @@
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | What is IoT? Architecture, 3-layer model, Python simulator | ✅ Done |
-| Day 2 | Basic Electronics for IoT sensors | ⏳ Next |
+| Day 2 | Basic Electronics for IoT sensors | ✅ Done |
 | Day 3 | Python Fundamentals 1 | ⏳ Upcoming |
 | Day 4 | Python Fundamentals 2 — JSON, file handling | ⏳ Upcoming |
 | Day 5 | Linux & Terminal basics | ⏳ Upcoming |
